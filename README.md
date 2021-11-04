@@ -6,3 +6,4 @@ An ace code editor for my schools coding class.
  - [ ] Local Storage
  - [ ] Menus
  - [ ] IndexedDB
+ - [ ] Multiple files
